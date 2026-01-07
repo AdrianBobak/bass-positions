@@ -3,6 +3,8 @@ import vue from '@vitejs/plugin-vue'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
+  base: '/bass-positions/',
+
   plugins: [
     vue(),
     VitePWA({
@@ -13,6 +15,8 @@ export default defineConfig({
         short_name: 'BassPWA',
         description: 'Learn bass guitar fretboard positions',
         theme_color: '#ffffff',
+        scope: '/bass-positions/',
+        start_url: '/bass-positions/',
         icons: [
           {
             src: 'pwa-192x192.png',
