@@ -1,0 +1,167 @@
+[
+  {
+    "position": 1,
+    "notes": {
+      "G": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 4 }
+      ],
+      "D": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 2 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 4 }
+      ],
+      "A": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": true, "finger": 2 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 4 }
+      ],
+      "E": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 2 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 5, "tonicMinor": true, "tonicMajor": false, "finger": 4 }
+      ]
+    }
+  },
+  {
+    "position": 2,
+    "notes": {
+      "G": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 2 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "D": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "A": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 4 }
+      ],
+      "E": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 2, "tonicMinor": true, "tonicMajor": false, "finger": 1 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": true, "finger": 4 }
+      ]
+    }
+  },
+  {
+    "position": 3,
+    "notes": {
+      "G": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "D": [
+        { "fret": 1, "tonicMinor": true, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "A": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 2 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "E": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": true, "finger": 2 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ]
+    }
+  },
+  {
+    "position": 4,
+    "notes": {
+      "G": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 2 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "D": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": true, "finger": 2 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "A": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": true, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "E": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 4 }
+      ]
+    }
+  },
+  {
+    "position": 5,
+    "notes": {
+      "G": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "D": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "A": [
+        { "fret": 1, "tonicMinor": true, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 3 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": true, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ],
+      "E": [
+        { "fret": 1, "tonicMinor": false, "tonicMajor": false, "finger": 1 },
+        { "fret": 2, "tonicMinor": false, "tonicMajor": false, "finger": 2 },
+        { "fret": 3, "tonicMinor": false, "tonicMajor": false, "finger": 0 },
+        { "fret": 4, "tonicMinor": false, "tonicMajor": false, "finger": 4 },
+        { "fret": 5, "tonicMinor": false, "tonicMajor": false, "finger": 0 }
+      ]
+    }
+  }
+]
