@@ -32,9 +32,13 @@ const bassNeck = ref(null);
 const isCorrect = ref(false);
 const isSubmitted = ref(false);
 const isCorrectAnswerShown = ref(false);
+const completedPositions = ref([]);
 
 const getRandomPostion = () => {
-  const randomIndex = Math.floor(Math.random() * positionsData.length);
+  let randomIndex = Math.floor(Math.random() * positionsData.length);
+  while (completedPositions.value.includes(randomIndex)) {
+    randomIndex = Math.floor(Math.random() * positionsData.length);
+  }
   return positionsData[randomIndex];
 };
 
@@ -73,8 +77,14 @@ const arePositionsEqual = (submittedPositions, expectedNotes) => {
   return true;
 };
 
+const handleCompletedPositions = () => {
+  completedPositions.value.push(activePosition.value);
+  if (completedPositions.value.length === positionsData.length) completedPositions.value = [];
+};
+
 const handleSubmit = (submittedPositions) => {
   isCorrect.value = arePositionsEqual(submittedPositions, activePosition.value?.notes);
+  if (isCorrect.value) handleCompletedPositions();
   isSubmitted.value = true;
 };
 
